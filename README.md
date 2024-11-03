@@ -21,10 +21,3 @@
 2. Para cada colecciones se dejó disponible un request de login el cual crea el token y este se convierte en una variable usada por los demás request
 3. Antes de ejecutar cualquier request de las colecciones es necesario ejecutar el login.
 
-
-# Enlaces de interés
-
-[Jenkins](http://157.253.238.75:8080/jenkins-misovirtual/). Para tener acceso deben iniciar sesión con su usuario de GitHub.
- 
-[Sonar](http://157.253.238.75:8080/sonar-misovirtual/). No se requieren crededenciales de acceso.
-
